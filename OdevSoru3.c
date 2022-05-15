@@ -1,3 +1,12 @@
+//2010206043 BÜŞRA TÜTER
+
+/*
+Bir bağlı doğrusal listelerde listenin ortasında yer alan elemanı silen (tuttuğu alanı belleğe geri iade eden)
+bir fonksiyon yazınız (Liste 100 ya da 101 elemanlı ise 50. elamanı silecek şekilde). Fonksiyon parametre
+olarak bir liste alıp güncellenen listeyi geri döndürecektir.
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
