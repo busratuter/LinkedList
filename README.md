@@ -1,2 +1,2 @@
 # pd2-homework
- 8 question
+ odev olarak verilen 8 sorunun cozumu
