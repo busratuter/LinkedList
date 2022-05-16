@@ -1,9 +1,9 @@
-// 2010206043 BÜŞRA TÜTER
+// 2010206043 BÃœSRA TÃœTER
 
 /*
-Kendisine parametre olarak aktarılan head isimli liste ve age yaş parametresine göre işlem yapan 
-fonksiyon, listedeki age yaş değerine sahip ikinci düğümü bularak silmektedir (bu düğümü belleğe iade 
-etmekte). Aşağıda verilen prototipi kullanarak gerekli fonksiyonu yazınız
+Kendisine parametre olarak aktarilan head isimli liste ve age yaÃ¾ parametresine gÃ¶re iÃ¾lem yapan 
+fonksiyon, listedeki age yas deÃ°erine sahip ikinci dÃ¼Ã°Ã¼mÃ¼ bularak silmektedir (bu dÃ¼gÃ¼mÃ¼ bellege iade 
+etmekte). Asagida verilen prototipi kullanarak gerekli fonksiyonu yazÃ½nÃ½z
 */
 
 
