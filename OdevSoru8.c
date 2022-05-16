@@ -1,9 +1,9 @@
-// 2010206043 BÜŞRA TÜTER
+// 2010206043 BÃœÃRA TÃœTER
 
 /*
-Bir bağlı doğrusal listelerde listenin sonundaki düğüm ile başındaki düğümün yerini değiştiren
-changeFirstAndLast isimli bir fonksiyon yazınız. Fonksiyon parametre olarak bir liste alıp güncellenen
-listeyi geri döndürecektir.
+Bir bagli dogrusal listelerde listenin sonundaki dÃ¼gÃ¼m ile basindaki dÃ¼gÃ¼mÃ¼n yerini degistiren
+changeFirstAndLast isimli bir fonksiyon yaziniz. Fonksiyon parametre olarak bir liste alip guncellenen
+listeyi geri dÃ¶ndÃ¼recektir.
 */
 
 
