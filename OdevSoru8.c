@@ -1,4 +1,4 @@
-// 2010206043 BÜÞRA TÜTER
+// 2010206043 BÜSRA TÜTER
 
 /*
 Bir bagli dogrusal listelerde listenin sonundaki dügüm ile basindaki dügümün yerini degistiren
